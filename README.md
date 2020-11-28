@@ -1,4 +1,4 @@
-# CMU Interactive Data Science Assigment 3
+# CMU Interactive Data Science Assigment 3 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/cmu-ids-2020/a3-lol/)
 
 * **Team members**: Shaobo Guan (shaobog) and Yuxi Luo (yuxiluo)
 * **Online URL**: https://share.streamlit.io/cmu-ids-2020/a3-lol/
